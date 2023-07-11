@@ -1,1 +1,7 @@
 # Placement-Preparation-Module
+
+
+NAME :- MOHD SARIM
+CSIT 7B-2
+ROLL NO :- 2000290110093
+CLASS ROLL :- 25
