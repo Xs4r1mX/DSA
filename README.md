@@ -1,7 +1,6 @@
-# Placement-Preparation-Module
+# DSA Leetcode
 
 
 NAME :- MOHD SARIM
-CSIT 7B-2
-ROLL NO :- 2000290110093
-CLASS ROLL :- 25
+USERNAME :- s4r1m_
+LEETCODE :- https://leetcode.com/s4r1m_/
