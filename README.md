@@ -77,3 +77,11 @@ GitHub
 ---
 
 ⭐ **Keep solving. Keep learning. Keep improving.**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0507-perfect-number](https://github.com/Xs4r1mX/DSA/tree/main/0507-perfect-number/) | Easy |
+<!---LeetCode Topics End-->
