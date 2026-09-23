@@ -105,6 +105,7 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Xs4r1mX/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +119,8 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 <!---LeetCode Topics End-->
