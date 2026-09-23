@@ -1,30 +1,23 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         if (s.length() != t.length()) return false;
 
-        Map<Character, Character> mapS2T = new HashMap<>();
-        Map<Character, Character> mapT2S = new HashMap<>();
+        // Array size 256 covers all standard extended ASCII characters
+        int[] lastSeenS = new int[256];
+        int[] lastSeenT = new int[256];
 
         for (int i = 0; i < s.length(); i++) {
             char charS = s.charAt(i);
             char charT = t.charAt(i);
 
-            // Check s -> t mapping
-            if (mapS2T.containsKey(charS)) {
-                if (mapS2T.get(charS) != charT) return false;
-            } else {
-                mapS2T.put(charS, charT);
+            // If the last seen positions don't match, mapping is broken
+            if (lastSeenS[charS] != lastSeenT[charT]) {
+                return false;
             }
 
-            // Check t -> s mapping
-            if (mapT2S.containsKey(charT)) {
-                if (mapT2S.get(charT) != charS) return false;
-            } else {
-                mapT2S.put(charT, charS);
-            }
+            // Store current position (i + 1 to avoid 0 collision with default initial values)
+            lastSeenS[charS] = i + 1;
+            lastSeenT[charT] = i + 1;
         }
 
         return true;
