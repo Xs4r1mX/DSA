@@ -1,15 +1,21 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        int[] a = new int[26];
-        for (char c : s.toCharArray()) {
-            a[c - 'a']++;
+        // Quick exit if lengths don't match
+        if (s.length() != t.length()) return false;
+
+        int[] count = new int[26];
+
+        // Increment and decrement in a single loop without creating char arrays
+        for (int i = 0; i < s.length(); i++) {
+            count[s.charAt(i) - 'a']++;
+            count[t.charAt(i) - 'a']--;
         }
-        for (char c : t.toCharArray()) {
-            a[c - 'a']--;
-        }
-        for (int n : a) {
+
+        // Check if all counts return to zero
+        for (int n : count) {
             if (n != 0) return false;
         }
+
         return true;
     }
 }
