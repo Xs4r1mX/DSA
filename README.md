@@ -108,6 +108,7 @@ GitHub
 | [0014-longest-common-prefix](https://github.com/Xs4r1mX/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +127,32 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
