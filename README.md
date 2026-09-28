@@ -113,6 +113,7 @@ GitHub
 | [0119-pascals-triangle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Xs4r1mX/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Xs4r1mX/DSA/tree/main/0704-binary-search/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ GitHub
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Xs4r1mX/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Xs4r1mX/DSA/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
