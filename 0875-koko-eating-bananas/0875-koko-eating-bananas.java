@@ -7,7 +7,7 @@ class Solution {
         while(l<=r){
             int m=l+(r-l)/2;
 
-            if(hoursToEat(nums,m)>h){
+            if(hoursToEat(nums,m,h)>h){
                 l=m+1;  //increase banana count to reduce hours
             }
             else{
@@ -19,14 +19,17 @@ class Solution {
         return ans;
     }
 
-    private int hoursToEat(int[] nums, int bananas){
-        int ans=0;
+    private int hoursToEat(int[] nums, int bananas, int h){
+        int totalHours=0;
 
-        for(double n:nums){
-            ans+=Math.ceil(n/bananas);
+        for(int n:nums){
+            totalHours+=(n + bananas - 1) / bananas; // ceil value n/bananas
+
+            if(totalHours>h)
+                return totalHours;
         }
 
-        return ans;
+        return totalHours;
     }
 
     private int getMax(int[] nums){
