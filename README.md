@@ -116,6 +116,7 @@ GitHub
 | [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Xs4r1mX/DSA/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Xs4r1mX/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@ GitHub
 | [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Xs4r1mX/DSA/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Xs4r1mX/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
