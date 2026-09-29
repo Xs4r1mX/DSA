@@ -1,15 +1,14 @@
 class Solution {
     public int minEatingSpeed(int[] nums, int h) {
-        int max=getMax(nums);
         int l=1;
-        int r=max;
-        int ans=-1;
+        int r=getMax(nums);;
+        int ans=r;
 
         while(l<=r){
             int m=l+(r-l)/2;
 
             if(hoursToEat(nums,m)>h){
-                l=m+1;
+                l=m+1;  //increase banana count to reduce hours
             }
             else{
                 ans=m;
@@ -23,8 +22,8 @@ class Solution {
     private int hoursToEat(int[] nums, int bananas){
         int ans=0;
 
-        for(int n:nums){
-            ans+=Math.ceil((double)n/bananas);
+        for(double n:nums){
+            ans+=Math.ceil(n/bananas);
         }
 
         return ans;
