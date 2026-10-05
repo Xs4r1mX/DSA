@@ -126,6 +126,7 @@ GitHub
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Xs4r1mX/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Xs4r1mX/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Xs4r1mX/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Xs4r1mX/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@ GitHub
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Xs4r1mX/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Xs4r1mX/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Xs4r1mX/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Xs4r1mX/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +206,5 @@ GitHub
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Xs4r1mX/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Xs4r1mX/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Xs4r1mX/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 <!---LeetCode Topics End-->
