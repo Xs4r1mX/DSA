@@ -99,6 +99,7 @@ GitHub
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Xs4r1mX/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Xs4r1mX/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -212,8 +213,10 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
