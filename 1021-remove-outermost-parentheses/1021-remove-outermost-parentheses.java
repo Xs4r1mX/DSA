@@ -2,7 +2,7 @@ class Solution {
     public String removeOuterParentheses(String s) {
         int bracketCount=0;
 
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder(s.length());
 
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
