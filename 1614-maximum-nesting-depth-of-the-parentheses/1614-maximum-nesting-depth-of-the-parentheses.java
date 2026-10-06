@@ -1,13 +1,18 @@
 class Solution {
     public int maxDepth(String s) {
-        int count=0;
-        int ans=0;
+        int count = 0;
+        int ans = 0;
 
-        for(char ch:s.toCharArray()){
-            if(ch=='(') count++;
-            else if(ch==')') count--;
-            else continue;
-            ans=Math.max(ans,count);
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            if (ch == '(') {
+                count++;
+                if (count > ans) {
+                    ans = count; // Only update max when depth increases
+                }
+            } else if (ch == ')') {
+                count--;
+            }
         }
 
         return ans;
