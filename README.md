@@ -83,6 +83,7 @@ GitHub
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Xs4r1mX/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/Xs4r1mX/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0507-perfect-number](https://github.com/Xs4r1mX/DSA/tree/main/0507-perfect-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Xs4r1mX/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -94,6 +95,7 @@ GitHub
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Xs4r1mX/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Xs4r1mX/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Xs4r1mX/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -136,6 +138,7 @@ GitHub
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Xs4r1mX/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Xs4r1mX/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
