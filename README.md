@@ -104,6 +104,7 @@ GitHub
 | [0541-reverse-string-ii](https://github.com/Xs4r1mX/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Xs4r1mX/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Xs4r1mX/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ GitHub
 | [0013-roman-to-integer](https://github.com/Xs4r1mX/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Xs4r1mX/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Xs4r1mX/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +231,8 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Xs4r1mX/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Xs4r1mX/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 <!---LeetCode Topics End-->
