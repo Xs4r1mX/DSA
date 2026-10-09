@@ -84,6 +84,7 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Xs4r1mX/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/Xs4r1mX/DSA/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Xs4r1mX/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0507-perfect-number](https://github.com/Xs4r1mX/DSA/tree/main/0507-perfect-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Xs4r1mX/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -235,4 +236,8 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Xs4r1mX/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Xs4r1mX/DSA/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
