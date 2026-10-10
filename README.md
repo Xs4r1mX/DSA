@@ -100,6 +100,7 @@ GitHub
 | [0005-longest-palindromic-substring](https://github.com/Xs4r1mX/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Xs4r1mX/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Xs4r1mX/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Xs4r1mX/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Xs4r1mX/DSA/tree/main/0541-reverse-string-ii/) | Easy |
@@ -155,6 +156,7 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Xs4r1mX/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Xs4r1mX/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Xs4r1mX/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -226,6 +228,7 @@ GitHub
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Manacher
@@ -240,4 +243,8 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Xs4r1mX/DSA/tree/main/0050-powx-n/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
