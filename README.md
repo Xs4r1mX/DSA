@@ -88,6 +88,7 @@ GitHub
 | [0069-sqrtx](https://github.com/Xs4r1mX/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0507-perfect-number](https://github.com/Xs4r1mX/DSA/tree/main/0507-perfect-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Xs4r1mX/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/Xs4r1mX/DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +246,7 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Xs4r1mX/DSA/tree/main/0050-powx-n/) | Medium |
+| [1922-count-good-numbers](https://github.com/Xs4r1mX/DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
