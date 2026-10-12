@@ -3,20 +3,18 @@ class Solution {
 
     public int countGoodNumbers(long n) {
 
-        // Even indices have 5 choices: 0, 2, 4, 6, 8
-        // Odd indices have 4 choices: 2, 3, 5, 7
+        // Even indices have 5 choices; odd indices have 4 choices
         long even = (n + 1) / 2;
         long odd = n / 2;
 
-        // Total combinations = 5^(even positions) * 4^(odd positions)
-        // Use modulo to prevent numbers from becoming too large
+        // Total combinations = 5^even * 4^odd
         long evenWays = power(5, even);
         long oddWays = power(4, odd);
 
         return (int) ((evenWays * oddWays) % MOD);
     }
 
-    // Calculates (x^n) % MOD using Binary Exponentiation
+    // Iterative Binary Exponentiation
     private long power(long x, long n) {
         long result = 1;
 
@@ -27,7 +25,7 @@ class Solution {
                 result = (result * x) % MOD;
             }
 
-            // Square the base for the next iteration
+            // Square the base and apply modulo
             x = (x * x) % MOD;
 
             // Halve the exponent
