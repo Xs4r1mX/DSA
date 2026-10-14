@@ -1,42 +1,44 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
+    // Pre-defined lookup array is faster and cleaner than a switch statement
+    private static final String[] MAPPING = {
+        "",     // 0
+        "",     // 1
+        "abc",  // 2
+        "def",  // 3
+        "ghi",  // 4
+        "jkl",  // 5
+        "mno",  // 6
+        "pqrs", // 7
+        "tuv",  // 8
+        "wxyz"  // 9
+    };
+
     public List<String> letterCombinations(String digits) {
         List<String> ans = new ArrayList<>();
-        generate(digits,0,ans,"");
+        if (digits == null || digits.isEmpty()) {
+            return ans;
+        }
+        
+        generate(digits, 0, new StringBuilder(), ans);
         return ans;
     }
 
-    private void generate(String digits, int index, List<String> ans, String current){
-        if(index==digits.length()){
-            ans.add(current);
+    private void generate(String digits, int index, StringBuilder current, List<String> ans) {
+        // Base case: if the current combination length matches digits length, add it
+        if (index == digits.length()) {
+            ans.add(current.toString());
             return;
         }
-        char currentDigit = digits.charAt(index);
-        String letters = getLetters(currentDigit);
-        for(int i=0;i<letters.length();i++){
-            generate(digits,index+1,ans,current+letters.charAt(i));
-        }
-    } 
-
-    private String getLetters(char number) {
-        switch (number) {
-            case '2':
-                return "abc";
-            case '3':
-                return "def";
-            case '4':
-                return "ghi";
-            case '5':
-                return "jkl";
-            case '6':
-                return "mno";
-            case '7':
-                return "pqrs";
-            case '8':
-                return "tuv";
-            case '9':
-                return "wxyz";
-            default:
-                return "";
+        
+        String letters = MAPPING[digits.charAt(index) - '0'];
+        
+        for (int i = 0; i < letters.length(); i++) {
+            current.append(letters.charAt(i));                     // 1. Choose
+            generate(digits, index + 1, current, ans);             // 2. Explore
+            current.deleteCharAt(current.length() - 1);            // 3. Un-choose (Backtrack)
         }
     }
 }
