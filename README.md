@@ -104,6 +104,7 @@ GitHub
 | [0014-longest-common-prefix](https://github.com/Xs4r1mX/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Xs4r1mX/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Xs4r1mX/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Xs4r1mX/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Xs4r1mX/DSA/tree/main/0541-reverse-string-ii/) | Easy |
@@ -165,6 +166,7 @@ GitHub
 | [0005-longest-palindromic-substring](https://github.com/Xs4r1mX/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Xs4r1mX/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Xs4r1mX/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Xs4r1mX/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Binary Search
@@ -259,6 +261,7 @@ GitHub
 | [0039-combination-sum](https://github.com/Xs4r1mX/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Xs4r1mX/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Xs4r1mX/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
