@@ -104,6 +104,7 @@ GitHub
 | [0014-longest-common-prefix](https://github.com/Xs4r1mX/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Xs4r1mX/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/Xs4r1mX/DSA/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Xs4r1mX/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Xs4r1mX/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -128,6 +129,7 @@ GitHub
 | [0039-combination-sum](https://github.com/Xs4r1mX/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Xs4r1mX/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Xs4r1mX/DSA/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Xs4r1mX/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -227,6 +229,7 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Xs4r1mX/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Xs4r1mX/DSA/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Xs4r1mX/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Xs4r1mX/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Stack
@@ -260,6 +263,7 @@ GitHub
 | [0022-generate-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Xs4r1mX/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Xs4r1mX/DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Xs4r1mX/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Xs4r1mX/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
@@ -267,4 +271,8 @@ GitHub
 | ------- | ------- |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Xs4r1mX/DSA/tree/main/0090-subsets-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Xs4r1mX/DSA/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
