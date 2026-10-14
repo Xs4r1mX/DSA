@@ -127,6 +127,7 @@ GitHub
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Xs4r1mX/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Xs4r1mX/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/Xs4r1mX/DSA/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Xs4r1mX/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Xs4r1mX/DSA/tree/main/0079-word-search/) | Medium |
@@ -262,6 +263,7 @@ GitHub
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Xs4r1mX/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Xs4r1mX/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/Xs4r1mX/DSA/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Xs4r1mX/DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Xs4r1mX/DSA/tree/main/0090-subsets-ii/) | Medium |
@@ -275,4 +277,8 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Xs4r1mX/DSA/tree/main/0079-word-search/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Xs4r1mX/DSA/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
