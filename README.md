@@ -127,6 +127,7 @@ GitHub
 | [0074-search-a-2d-matrix](https://github.com/Xs4r1mX/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/Xs4r1mX/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Xs4r1mX/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Xs4r1mX/DSA/tree/main/0162-find-peak-element/) | Medium |
@@ -254,8 +255,10 @@ GitHub
 | [0022-generate-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Xs4r1mX/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Xs4r1mX/DSA/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Xs4r1mX/DSA/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
