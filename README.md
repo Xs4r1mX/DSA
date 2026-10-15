@@ -146,6 +146,7 @@ GitHub
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Xs4r1mX/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Xs4r1mX/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Xs4r1mX/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Xs4r1mX/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +159,7 @@ GitHub
 | [0205-isomorphic-strings](https://github.com/Xs4r1mX/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Xs4r1mX/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Xs4r1mX/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,10 +204,12 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Xs4r1mX/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Xs4r1mX/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
