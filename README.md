@@ -126,6 +126,7 @@ GitHub
 | [0033-search-in-rotated-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Xs4r1mX/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/Xs4r1mX/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Xs4r1mX/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/Xs4r1mX/DSA/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Xs4r1mX/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -156,6 +157,7 @@ GitHub
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Xs4r1mX/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Xs4r1mX/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/Xs4r1mX/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Xs4r1mX/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Xs4r1mX/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -233,6 +235,7 @@ GitHub
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Xs4r1mX/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Xs4r1mX/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Xs4r1mX/DSA/tree/main/0079-word-search/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Xs4r1mX/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -266,6 +269,7 @@ GitHub
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Xs4r1mX/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/Xs4r1mX/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Xs4r1mX/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/Xs4r1mX/DSA/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
@@ -284,5 +288,10 @@ GitHub
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Xs4r1mX/DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Xs4r1mX/DSA/tree/main/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Xs4r1mX/DSA/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
