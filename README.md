@@ -86,6 +86,7 @@ GitHub
 | [0013-roman-to-integer](https://github.com/Xs4r1mX/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Xs4r1mX/DSA/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Xs4r1mX/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0282-expression-add-operators](https://github.com/Xs4r1mX/DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0507-perfect-number](https://github.com/Xs4r1mX/DSA/tree/main/0507-perfect-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Xs4r1mX/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/Xs4r1mX/DSA/tree/main/1922-count-good-numbers/) | Medium |
@@ -108,6 +109,7 @@ GitHub
 | [0131-palindrome-partitioning](https://github.com/Xs4r1mX/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Xs4r1mX/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0282-expression-add-operators](https://github.com/Xs4r1mX/DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0541-reverse-string-ii](https://github.com/Xs4r1mX/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -276,6 +278,7 @@ GitHub
 | [0079-word-search](https://github.com/Xs4r1mX/DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Xs4r1mX/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Xs4r1mX/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0282-expression-add-operators](https://github.com/Xs4r1mX/DSA/tree/main/0282-expression-add-operators/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
