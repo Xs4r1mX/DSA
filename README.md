@@ -91,6 +91,7 @@ GitHub
 | [0507-perfect-number](https://github.com/Xs4r1mX/DSA/tree/main/0507-perfect-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Xs4r1mX/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/Xs4r1mX/DSA/tree/main/1922-count-good-numbers/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Xs4r1mX/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ GitHub
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Xs4r1mX/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Xs4r1mX/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Xs4r1mX/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Xs4r1mX/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
