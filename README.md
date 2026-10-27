@@ -307,4 +307,5 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Xs4r1mX/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
