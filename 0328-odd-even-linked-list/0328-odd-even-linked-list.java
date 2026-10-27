@@ -1,32 +1,24 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        if(head==null || head.next==null || head.next.next==null){
+        if (head == null || head.next == null) {
             return head;
         }
 
-        ListNode slowHead = head;
-        ListNode fastHead = head.next;
-        ListNode fast = fastHead;
-        ListNode slow = slowHead;
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode evenHead = even; // Save the start of the even list
 
-        while(fast!=null && fast.next!=null){
-            slow.next=slow.next.next;
-            fast.next=fast.next.next;
-            slow=slow.next;
-            fast=fast.next;
+        // Traverse while there are even nodes and subsequent nodes
+        while (even != null && even.next != null) {
+            odd.next = even.next;  // Connect odd to next odd
+            odd = odd.next;        // Advance odd pointer
+            
+            even.next = odd.next;  // Connect even to next even
+            even = even.next;      // Advance even pointer
         }
 
-        slow.next=fastHead;
+        // Attach the head of the even list to the end of the odd list
+        odd.next = evenHead;
 
         return head;
     }
