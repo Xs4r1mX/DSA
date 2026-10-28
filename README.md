@@ -96,6 +96,7 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Xs4r1mX/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Xs4r1mX/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Xs4r1mX/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 ## String
@@ -307,5 +308,6 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Xs4r1mX/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Xs4r1mX/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
