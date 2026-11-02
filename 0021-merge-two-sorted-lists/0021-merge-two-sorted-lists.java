@@ -1,60 +1,23 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        
-        if(list1==null && list2==null)
-        return null;
-        
-        if(list1==null)
-        return list2;
-        
-        if(list2==null)
-        return list1;
+        ListNode dummy = new ListNode(-1);
+        ListNode temp = dummy;
 
-        ListNode list =new ListNode(0);
-        ListNode temp = list;
-        while(list1!=null && list2!=null)
-        {
-            if(list1.val<list2.val)
-            {
-                ListNode node = new ListNode(list1.val);
-                temp.next=node;
-                temp=temp.next;
-                list1=list1.next;
+        // Traverse both lists and attach the smaller node
+        while (list1 != null && list2 != null) {
+            if (list1.val <= list2.val) {
+                temp.next = list1;
+                list1 = list1.next;
+            } else {
+                temp.next = list2;
+                list2 = list2.next;
             }
-            else
-            {
-                ListNode node = new ListNode(list2.val);
-                temp.next=node;
-                temp=temp.next;
-                list2=list2.next;
-            }
+            temp = temp.next;
         }
-        while(list1!=null)
-        {
-            ListNode node = new ListNode(list1.val);
-                temp.next=node;
-                temp=temp.next;
-                list1=list1.next;
-        }
-        while(list2!=null)
-        {
-            ListNode node = new ListNode(list2.val);
-                temp.next=node;
-                temp=temp.next;
-                list2=list2.next;
-        }
-        return list.next;
 
-        
+        // Attach whatever is left from either list in O(1) time
+        temp.next = (list1 != null) ? list1 : list2;
+
+        return dummy.next;
     }
 }
