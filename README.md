@@ -285,6 +285,7 @@ GitHub
 | [0002-add-two-numbers](https://github.com/Xs4r1mX/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Xs4r1mX/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Xs4r1mX/DSA/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1922-count-good-numbers](https://github.com/Xs4r1mX/DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Backtracking
@@ -327,6 +328,7 @@ GitHub
 | [0061-rotate-list](https://github.com/Xs4r1mX/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Xs4r1mX/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
