@@ -87,6 +87,7 @@ GitHub
 | [0013-roman-to-integer](https://github.com/Xs4r1mX/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Xs4r1mX/DSA/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Xs4r1mX/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/Xs4r1mX/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0282-expression-add-operators](https://github.com/Xs4r1mX/DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Xs4r1mX/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0507-perfect-number](https://github.com/Xs4r1mX/DSA/tree/main/0507-perfect-number/) | Easy |
@@ -288,6 +289,7 @@ GitHub
 | [0025-reverse-nodes-in-k-group](https://github.com/Xs4r1mX/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/Xs4r1mX/DSA/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Xs4r1mX/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1922-count-good-numbers](https://github.com/Xs4r1mX/DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Backtracking
@@ -308,6 +310,7 @@ GitHub
 | ------- | ------- |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Xs4r1mX/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0231-power-of-two](https://github.com/Xs4r1mX/DSA/tree/main/0231-power-of-two/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
