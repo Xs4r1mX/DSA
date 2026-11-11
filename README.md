@@ -220,6 +220,7 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Xs4r1mX/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0191-number-of-1-bits](https://github.com/Xs4r1mX/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Xs4r1mX/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
 ## Binary Indexed Tree
@@ -310,6 +311,7 @@ GitHub
 | ------- | ------- |
 | [0078-subsets](https://github.com/Xs4r1mX/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Xs4r1mX/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Xs4r1mX/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Xs4r1mX/DSA/tree/main/0231-power-of-two/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
