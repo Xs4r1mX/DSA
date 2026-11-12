@@ -164,6 +164,7 @@ GitHub
 | [1539-kth-missing-positive-number](https://github.com/Xs4r1mX/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Xs4r1mX/DSA/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Xs4r1mX/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Xs4r1mX/DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
