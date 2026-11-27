@@ -104,6 +104,7 @@ GitHub
 | [0142-linked-list-cycle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Xs4r1mX/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0455-assign-cookies](https://github.com/Xs4r1mX/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Xs4r1mX/DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Xs4r1mX/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -131,6 +132,7 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Xs4r1mX/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Xs4r1mX/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Xs4r1mX/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -154,6 +156,7 @@ GitHub
 | [0162-find-peak-element](https://github.com/Xs4r1mX/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Xs4r1mX/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Xs4r1mX/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Xs4r1mX/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Xs4r1mX/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/Xs4r1mX/DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -187,6 +190,7 @@ GitHub
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Xs4r1mX/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Xs4r1mX/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0455-assign-cookies](https://github.com/Xs4r1mX/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Xs4r1mX/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -347,4 +351,8 @@ GitHub
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Xs4r1mX/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Xs4r1mX/DSA/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
